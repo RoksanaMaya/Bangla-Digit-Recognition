@@ -8,4 +8,4 @@ Steps:
 3.    Convert to matrix
 4.    Use mathematics to identify each digit (same image that we used ) without any algorithms <br>
 ## Objective-2:
-Input any printed image digit (Bangle) and output the same digit format except handwritten and output the recognized digit
+Input any printed image digit (Bangle) in any format except handwritten and output the same
